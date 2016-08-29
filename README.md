@@ -1,4 +1,4 @@
-# InspectMobileAppsViaBrowser
+# Inspect Mobile Apps Via Browser
 Explained in few steps what should one do in order to be able to inspect mobile (iOS and Android) app
 
 
