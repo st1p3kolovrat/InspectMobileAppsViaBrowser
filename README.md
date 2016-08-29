@@ -40,7 +40,8 @@ Settings -> Safari -> Advanced -> Web Inspector
 ##Android
 write about Android .....
 
- ### STEP 1: Install application to your Android device. You usually have `release` and `debug`. Make sure it is debug version. 
+
+### STEP 1: Install application to your Android device. You usually have `release` and `debug` versions. Make sure it is debug version. 
 
 **Note:** If you install release version you will not be able to inspect the app
 .
