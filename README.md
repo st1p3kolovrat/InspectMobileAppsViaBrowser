@@ -1,6 +1,3 @@
-# Inspect Mobile Apps Via Browser
-Explained in few steps what should one do in order to be able to inspect mobile (iOS and Android) app
-
 
 To-Do: 
 
@@ -9,7 +6,7 @@ To-Do:
 ----
 Add  screenshots and gifs
 
-#Few simple steps to inspect the mobile application in development
+#Few simple steps to inspect the mobile application (iOS and Android) in development
 
 ##iOS
 
