@@ -34,7 +34,7 @@ Settings -> Safari -> Advanced -> Web Inspector
  - You may choose between various choices, e.g. `Console` to watch out for possible errors during apps user interaction
 
 <img width="1279" alt="3step_3" src="https://cloud.githubusercontent.com/assets/11440824/18032089/e6632e92-6cc8-11e6-9b37-ad68a4f3e3dd.png">
-
+##
 
 ##Android
 ![is 3](https://cloud.githubusercontent.com/assets/11440824/19219456/acc65da0-8de1-11e6-9bea-0081c57dc955.png)
