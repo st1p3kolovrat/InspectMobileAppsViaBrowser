@@ -4,7 +4,6 @@ To-Do:
 - Steps for Android app
 
 ----
-Add  screenshots and gifs
 
 #Few simple steps to inspect the mobile application (iOS and Android) in development
 
