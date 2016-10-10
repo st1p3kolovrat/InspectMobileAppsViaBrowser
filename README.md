@@ -20,7 +20,7 @@ Settings -> Safari -> Advanced -> Web Inspector
 
 ### STEP 3: Open up the app you want to inspect
 
-###  STEP 4: Connect the _iOS device_ and your _computer_ with _Lightning Cable_
+### STEP 4: Connect the _iOS device_ and your _computer_ with _Lightning Cable_
 
 ### STEP 5: On your mac, Open **Safari** browser
 
@@ -45,6 +45,20 @@ write about Android .....
 ### STEP 1: Install application to your Android device. You usually have `release` and `debug` versions. Make sure it is debug version. 
 
 **Note:** If you install release version you will not be able to inspect the app
+
+### STEP 2: On Android device, enable `Developer options`
+
+Settings -> About phone -> Tap multiple times on `Build number` -> Tap `back` -> Tap `Developer options` -> Enable `Android debugging`
+
+See how: ![1](https://cloud.githubusercontent.com/assets/11440824/19248546/b8353a30-8efe-11e6-80dd-944d8d140333.gif)
+
+### STEP 3: Open up the app you want to inspect
+
+### STEP 4: Connect the _Android device_ and your _computer_ with _cable_
+
+### STEP 5: On your computer, Open **Chrome** browser
+
+ Right click -> Inspect -> dev tools (<img width="23" alt="icon" src="https://cloud.githubusercontent.com/assets/11440824/19248618/38585fa8-8eff-11e6-9fbd-57335a294f64.png">
 .
 .
 .
