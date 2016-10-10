@@ -31,7 +31,7 @@ Settings -> Safari -> Advanced -> Web Inspector
 
 <img width="1279" alt="3step_2" src="https://cloud.githubusercontent.com/assets/11440824/18032088/e3ed2ad2-6cc8-11e6-8f2e-c74d95d63e13.png">
 
- - You may choose between various choices, e.g. `Console` to watch out for possible errors during apps user interaction
+ - You may choose between various choices, e.g. `Console`, `Network` to watch out for possible errors during apps user interaction, or to check responses
 
 <img width="1279" alt="3step_3" src="https://cloud.githubusercontent.com/assets/11440824/18032089/e6632e92-6cc8-11e6-9b37-ad68a4f3e3dd.png">
 ##
