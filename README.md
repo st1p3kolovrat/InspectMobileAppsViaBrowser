@@ -58,7 +58,7 @@ See how: ![1](https://cloud.githubusercontent.com/assets/11440824/19248546/b8353
 
 ### STEP 5: On your computer, Open **Chrome** browser
 
- Right click -> Inspect -> dev tools (<img width="23" alt="icon" src="https://cloud.githubusercontent.com/assets/11440824/19248618/38585fa8-8eff-11e6-9fbd-57335a294f64.png">
+ Right click -> Inspect -> dev tools <img width="20" alt="icon" src="https://cloud.githubusercontent.com/assets/11440824/19248618/38585fa8-8eff-11e6-9fbd-57335a294f64.png"> -> More tools -> Inspect devices -> Click on `Connected` device -> Click `Inspect`
 .
 .
 .
