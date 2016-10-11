@@ -44,7 +44,7 @@ Settings -> Safari -> Advanced -> Web Inspector
 
 Settings -> About phone -> Tap multiple times on `Build number` -> Tap `back` -> Tap `Developer options` -> Enable `Android debugging`
 
-See how: ![1](https://cloud.githubusercontent.com/assets/11440824/19248546/b8353a30-8efe-11e6-80dd-944d8d140333.gif)
+![1](https://cloud.githubusercontent.com/assets/11440824/19248546/b8353a30-8efe-11e6-80dd-944d8d140333.gif)
 
 ### STEP 3: Open up the app you want to inspect
 
