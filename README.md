@@ -1,8 +1,4 @@
 
-To-Do: 
-
-- Steps for Android app
-
 ----
 
 #Few simple steps to inspect the mobile application (iOS and Android) in development
@@ -38,7 +34,6 @@ Settings -> Safari -> Advanced -> Web Inspector
 
 ##Android
 ![is 3](https://cloud.githubusercontent.com/assets/11440824/19219456/acc65da0-8de1-11e6-9bea-0081c57dc955.png)
-write about Android .....
 
 
 ### STEP 1: Install application to your Android device. You usually have `release` and `debug` versions. Make sure it is debug version. 
